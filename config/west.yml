@@ -3,7 +3,7 @@ manifest:
     - name: zmkfirmware
       url-base: https://github.com/zmkfirmware
     - name: bullwinkle3000
-      url-base: https://github.com/bullwinkle3000
+      url-base: https://github.com/R1AACR
     - name: carrefinho
       url-base: https://github.com/carrefinho
   projects:
