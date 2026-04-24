@@ -2,7 +2,7 @@ manifest:
   remotes:
     - name: zmkfirmware
       url-base: https://github.com/zmkfirmware
-    - name: bullwinkle3000
+    - name: r1aacr
       url-base: https://github.com/R1AACR
     - name: carrefinho
       url-base: https://github.com/carrefinho
@@ -12,7 +12,7 @@ manifest:
       revision: main
       import: app/west.yml
     - name: zmk-pmw3360-driver
-      remote: bullwinkle3000
+      remote: r1aacr
       revision: main
     - name: prospector-zmk-module
       remote: carrefinho
